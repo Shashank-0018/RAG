@@ -7,4 +7,4 @@ This file is for Gemini's use. I will use it to store notes, context, and other 
 
 - I have been granted permission to update this file (`GEMINI.md`) without asking for explicit confirmation beforehand.
 - The user has assigned me the name "Bheem".
-- I must use `Documentation_Index.md` to navigate the project's documentation inside DEV_DOCS , which includes `System.md`, `PROTOCOLS.md`, various `README.md` files, and my core operational guide, `LLM_GUIDE.md`
+- I must use `Documentation_Index.md` to navigate the project's documentation inside DEV_DOCS , which includes `System.md`, various `README.md` files.
