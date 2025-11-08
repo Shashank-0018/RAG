@@ -2,6 +2,7 @@
 
 This file is for Gemini's use. I will use it to store notes, context, and other information to help me better assist you.
 
+After each task , i have to append my tasks in the TODO file [TODO](./TODO.MD) by which the developer can see a journey of the project development phase
 
 ## Agent Directives
 
