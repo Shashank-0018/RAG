@@ -19,4 +19,5 @@
 [x] mkdir python
 [x] New-Item -Path src\index.js -ItemType File -Force
 [x] Initialize Python embedding service `python/embedding_server.py`
+[x] created Chroma client file `chromaClient.js`
 
