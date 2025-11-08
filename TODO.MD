@@ -21,7 +21,7 @@
 [x] Initialize Python embedding service `python/embedding_server.py`
 [x] created Chroma client file `chromaClient.js`
 [x] Implement PDF loader module in src/loaders to extract text from NCERT PDFs using pdf-parse
-[ ] Develop text preprocessing in src/preprocess to clean and split text into token chunks
+[x] Develop text preprocessing in src/preprocess to clean and split text into token chunks
 [ ] Set up embedding generation by connecting Node.js with the Python embedding service in src/embeddings
 [ ] Implement storage and retrieval functions in src/db using chromaClient.js
 [ ] Build query processing in src/query that takes user input, creates query embeddings, performs similarity search
